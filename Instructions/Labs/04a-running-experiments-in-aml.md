@@ -29,7 +29,7 @@ ms.locfileid: "138100309"
 
 ## <a name="deploy-an-azure-machine-learning-workspace"></a>Azure Machine Learning ワークスペースをデプロイする
 
-1. ご自分のサブスクリプションで、既に Azure Machine Learning ワークスペースを作成してある場合は、次のセクションにスキップできます。「[演習:Azure Machine Learning で実験を実行する](#Exercise-Running-experiments-in-Azure-Machine-Learning)」。
+1. ご自分のサブスクリプションで、既に Azure Machine Learning ワークスペースを作成してある場合は、「[演習:Azure Machine Learning で実験を実行する](#Exercise-Running-experiments-in-Azure-Machine-Learning)」セクションにスキップできます。
 
 1. [Azure portal](https://portal.azure.com/#home) で、新しいリソースを作成します。**Machine Learning**
 
